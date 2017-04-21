@@ -1,0 +1,82 @@
+.container{
+  background-image: url("../images/RedGold.jpg");
+  border: 2px solid gold;
+}
+body{
+  background-color: black;
+}
+img{
+  width: 200px;
+  margin-left: 520px;
+}
+a{
+  text-align: center;
+  color:red;
+  margin-left: 599px;
+  padding: 10px;
+  background-color: black;
+  border-radius: 5px;
+
+}
+.section1{
+  margin-bottom: 20px;
+  padding-top: 20px;
+}
+.section2{
+  padding-top: 20px;
+}
+.section3{
+  background-color: black;
+  border: 1px solid gold;
+  border-radius: 10px;
+  height: 200px;
+}
+h1{
+  color:gold;
+  text-align: center;
+  margin-bottom: 0px;
+}
+span{
+  border: 1px solid gold;
+  color:white;
+  margin-left: 81px;
+  padding:5px;
+}
+h4{
+  color:white;
+  text-align: center;
+  margin-top: 0px;
+}
+h5{
+  color:white;
+  text-align: center;
+}
+p{
+  color:white;
+  text-align: center;
+}
+.box{
+  background-color: black;
+  width: 200px;
+  margin: 5px;
+  border: 1px solid gold;
+  display: inline-block;
+  padding:20px;
+  border-radius: 10px;
+  margin-left: 55px;
+}
+input{
+  margin-left: 63px;
+  background-color: gold;
+
+}
+.section3{
+  overflow-y: scroll;
+}
+
+.green p{
+  color:green;
+}
+.red p{
+  color:red;
+}
